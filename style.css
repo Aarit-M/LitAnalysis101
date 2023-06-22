@@ -217,3 +217,10 @@ audio::-webkit-media-controls-play-button,
 {
     border:dashed;
 }
+.navbar{
+  position:sticky;
+  top:0px;
+  background-position: center;
+  background-size: cover;
+  -webkit-transform: translate3d(0,0,0);
+}
