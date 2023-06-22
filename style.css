@@ -155,6 +155,13 @@ audio::-webkit-media-controls-play-button,
     margin-right:3%;
     margin-top:6%;
 }
+#flips, #look {
+    padding: 5px,5px;
+}
+#look
+{
+    padding: 5px,5px;
+}
 #flippy
 {
     width:800px;
