@@ -171,6 +171,7 @@ audio::-webkit-media-controls-play-button,
     float:right;
     width:450px;
     margin-right:10%;
+    padding: 5px,5px;
 }
 #mtr-c,#cnct-tr,#conc-c
 {
